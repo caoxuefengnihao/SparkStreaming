@@ -239,7 +239,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,6 +250,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,7 +478,8 @@
       <workItem from="1575595720396" duration="171000" />
       <workItem from="1575596849901" duration="796000" />
       <workItem from="1575598622635" duration="2853000" />
-      <workItem from="1575602786343" duration="1251000" />
+      <workItem from="1575602786343" duration="2657000" />
+      <workItem from="1575610703538" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="spark学习">
       <created>1575602908719</created>
@@ -487,16 +488,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575602908719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="spark学习">
+      <created>1575604046601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575604046601</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220338000" />
+    <option name="totallyTimeSpent" value="222341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="18" width="1936" height="1057" extended-state="0" />
+    <frame x="-13" y="18" width="1936" height="1057" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27238807" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
